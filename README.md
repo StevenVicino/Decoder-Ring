@@ -8,17 +8,7 @@ Decoder App that enables a user to encode or decode messages using 3 different c
 
 ##Polybius Square
 
-  1	2	3	4	  5
-
-1	A	B	C	D	  E
-
-2	F	G	H	I/J	K
-
-3	L	M	N	O	  P
-
-4	Q	R	S	T	  U
-
-5	V	W	X	Y	  Z
+![image](https://user-images.githubusercontent.com/108180333/198870160-4a337599-5ce9-415e-b674-906b591d6cf9.png)
 
 ##Subsitution Cipher
 
