@@ -2,7 +2,6 @@
 
 Decoder App that enables a user to encode or decode messages using 3 different cipher algorithms
 
-[Live Demo](https://decoder-ring.onrender.com/)
 
 ## Technology
 
